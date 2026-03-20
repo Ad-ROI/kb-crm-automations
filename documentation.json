@@ -1,0 +1,32 @@
+{
+    "navigation":  {
+                       "tabs":  [
+                                    {
+                                        "tab":  "Documentation",
+                                        "groups":  [
+                                                       {
+                                                           "pages":  [
+                                                                         {
+                                                                             "title":  "Introduction",
+                                                                             "path":  "introduction",
+                                                                             "icon":  "home"
+                                                                         }
+                                                                     ],
+                                                           "group":  "Overview",
+                                                           "icon":  "home"
+                                                       }
+                                                   ],
+                                        "icon":  "book"
+                                    }
+                                ]
+                   },
+    "name":  "CRM \u0026 Automations",
+    "colors":  {
+                   "light":  {
+                                 "brand":  "#BD2026"
+                             },
+                   "dark":  {
+                                "brand":  "#E16B6F"
+                            }
+               }
+}
